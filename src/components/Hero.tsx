@@ -30,10 +30,13 @@ export default function Hero() {
             <h2 className="text-sm md:text-base font-mono text-purple-400 tracking-widest uppercase mb-4">
               Muhammad Irfan Malik
             </h2>
-            <h1 className="text-5xl md:text-7xl font-display font-bold leading-[1.1] tracking-tight mb-6">
+            <h1 className="text-5xl md:text-6xl font-display font-bold leading-[1.1] tracking-tight mb-6">
+              Design <span className="text-gradient">Experience</span> Impact
+            </h1>
+            {/* <h1 className="text-5xl md:text-7xl font-display font-bold leading-[1.1] tracking-tight mb-6">
               Designing Digital <br />
               <span className="text-gradient">Experiences</span> That Convert.
-            </h1>
+            </h1> */}
             <p className="text-gray-400 text-lg md:text-xl max-w-lg leading-relaxed">
               UI/UX Designer with 3+ years of experience crafting user-focused digital products that drive engagement and business growth.
             </p>

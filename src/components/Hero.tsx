@@ -60,10 +60,11 @@ export default function Hero() {
               <div className="absolute inset-0 bg-gradient-to-r from-purple-400 to-blue-400 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
             </a>
             <a
-              href="#contact"
+              href="/irfan-malik-cv.pdf"
+              download="Irfan-Malik-CV.pdf"
               className="px-8 py-4 bg-white/5 border border-white/10 rounded-full font-medium hover:bg-white/10 transition-colors flex items-center gap-2"
             >
-              Book a Discovery Call
+              View My Resume
             </a>
           </motion.div>
         </div>

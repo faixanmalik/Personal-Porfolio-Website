@@ -42,7 +42,7 @@ export default function Footer() {
 
         <div className="border-t border-white/10 pt-12 flex flex-col md:flex-row justify-between items-center gap-8">
           <div className="text-center md:text-left">
-            <h3 className="font-bold text-xl mb-2">Muhammad Irfan Shahid</h3>
+            <h3 className="font-bold text-xl mb-2">Muhammad Irfan Malik</h3>
             <p className="text-gray-500">UI/UX Designer</p>
 
             <div className="flex items-center gap-4 mt-3 justify-center md:justify-start">
@@ -69,7 +69,7 @@ export default function Footer() {
         </div>
         
         <div className="text-center mt-12 text-gray-600 text-xs">
-          © {new Date().getFullYear()} Muhammad Irfan Shahid. All rights reserved.
+          © {new Date().getFullYear()} Muhammad Irfan Malik. All rights reserved.
         </div>
       </div>
     </footer>

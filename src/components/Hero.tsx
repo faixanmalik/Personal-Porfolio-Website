@@ -85,7 +85,9 @@ export default function Hero() {
             <div className="relative w-full h-full rounded-[2rem] overflow-hidden border border-white/10 bg-gray-900">
               <img 
                 src="/irfan-malik.png" 
-                alt="Muhammad Irfan Malik" 
+                alt="Muhammad Irfan Malik"
+                loading="lazy"
+                decoding="async"
                 className="w-full h-full object-cover opacity-90 hover:scale-105 transition-transform duration-700"
                 referrerPolicy="no-referrer"
               />

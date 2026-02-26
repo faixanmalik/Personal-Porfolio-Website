@@ -4,13 +4,13 @@ const timeline = [
   {
     year: "2023–Present",
     role: "Self-Initiated Web Design Projects",
-    desc: "Focusing on UI/UX principles, modern web aesthetics, and responsive design."
+    desc: "Focusing on UI/UX principles, modern web aesthetics, and responsive design.Developed responsive layouts optimized for both desktop and mobile devices."
   },
   {
     year: "2023–Present",
     role: "Graphic Designer & Video Editor",
     company: "RISE School of Accountancy",
-    desc: "Creating visual content, branding materials, and video edits for educational marketing."
+    desc: "Creating visual content, branding materials, and video edits for educational marketing.Collaborated closely with marketing teams and clients to understand requirements and translate ideas into visuall compelling, print-ready designs."
   }
 ];
 
